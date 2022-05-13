@@ -1,0 +1,159 @@
+dataConversion/TernaryExercises.java
+ dataConversion.TernaryExercises
+interfaceExample/exerciseOne/ITelephone.java
+ interfaceExample.exerciseOne.ITelephone
+dataConversion/TernaryExample.java
+ dataConversion.TernaryExample
+abstraction/exercise1/Bird.java
+ abstraction.exercise1.Bird
+Generics/Main.java
+ Generics.Main
+ Generics.Main$abc123
+ Generics.Main$abc1234
+interfaceExample/exerciseOne/Main.java
+ interfaceExample.exerciseOne.Main
+vehicleInheritance/Vehicle.java
+ vehicleInheritance.Vehicle
+doWhileLoops/DoWhileLoopExercises.java
+ doWhileLoops.DoWhileLoopExercises
+inheritanceAnimal/inheritance/Fish.java
+ inheritanceAnimal.inheritance.Fish
+map/exercise1.java
+ map.exercise1
+lambda/exercise1.java
+ lambda.Employee
+ lambda.exercise1
+arrayList/autoboxing/WrapperExample.java
+ arrayList.autoboxing.WrapperExample
+arrayList/Exercise1.java
+ arrayList.Exercise1
+Generics/Player.java
+ Generics.Player
+SwitchExercises.java
+ SwitchExercises
+abstraction/exercise2/MyLinkedList.java
+ abstraction.exercise2.MyLinkedList
+arrays/Exercise1.java
+ arrays.Exercise1
+Generics/FootballPlayer.java
+ Generics.FootballPlayer
+map/exercise2/Location.java
+ map.exercise2.Location
+interfaceExample/exerciseOne/DeskPhone.java
+ interfaceExample.exerciseOne.DeskPhone
+forLoops/ForLoopExercise.java
+ forLoops.ForLoopExercise
+dataConversion/unicode.java
+ dataConversion.unicode
+Generics/Team.java
+ Generics.Team
+abstraction/exercise1/Main.java
+ abstraction.exercise1.Main
+inheritanceAnimal/inheritance/Main.java
+ inheritanceAnimal.inheritance.Main
+arrays/Exercise2.java
+ arrays.Exercise2
+interfaceExample/exerciseTwo/Main.java
+ interfaceExample.exerciseTwo.Main
+abstraction/exercise1/Animal.java
+ abstraction.exercise1.Animal
+collections/Main.java
+ collections.Main
+abstraction/exercise2/NodeList.java
+ abstraction.exercise2.NodeList
+abstraction/exercise1/Dog.java
+ abstraction.exercise1.Dog
+forLoops2/Student.java
+ forLoops2.Student
+interfaceExample/exerciseTwo/Monster.java
+ interfaceExample.exerciseTwo.Monster
+linkedLists/Exercise1.java
+ linkedLists.Exercise1
+abstraction/exercise1/Pigeon.java
+ abstraction.exercise1.Pigeon
+questions/Exercise1.java
+ questions.Exercise1
+interfaceExample/exerciseOne/Gearbox.java
+ interfaceExample.exerciseOne.Gearbox
+parsing/ParseExercise.java
+ parsing.ParseExercise
+map/exercise2/Main.java
+ map.exercise2.Main
+dataConversion/Practice1.java
+ dataConversion.Practice1
+whileLoops/WhileExercises.java
+ whileLoops.WhileExercises
+forLoops2/School.java
+ forLoops2.School
+Generics/BaseballPlayer.java
+ Generics.BaseballPlayer
+inheritanceAnimal/inheritance/Animal.java
+ inheritanceAnimal.inheritance.Animal
+vehicleInheritance/Toyota.java
+ vehicleInheritance.Toyota
+vehicleInheritance/Car.java
+ vehicleInheritance.Car
+vehicleInheritance/Main.java
+ vehicleInheritance.Main
+Set/HeavenlyBody.java
+ Set.HeavenlyBody
+interfaceExample/exerciseOne/MobilePhone.java
+ interfaceExample.exerciseOne.MobilePhone
+inheritance/Person.java
+ inheritance.Person
+arrays/Exercise4.java
+ arrays.Exercise4
+forLoops2/Main.java
+ forLoops2.Main
+abstraction/exercise2/ListItem.java
+ abstraction.exercise2.ListItem
+forLoops2/Teacher.java
+ forLoops2.Teacher
+scanner/Exercise.java
+ scanner.Exercise
+arrayList/exercise2/MobilePhone.java
+ arrayList.exercise2.MobilePhone
+arrayList/exercise2/Main.java
+ arrayList.exercise2.Main
+inheritance/Main.java
+ inheritance.Main
+interfaceExample/exerciseTwo/ISaveable.java
+ interfaceExample.exerciseTwo.ISaveable
+parsing/Exercise2.java
+ parsing.Exercise2
+abstraction/exercise2/Node.java
+ abstraction.exercise2.Node
+interfaceExample/exerciseTwo/Player.java
+ interfaceExample.exerciseTwo.Player
+dataConversion/Main.java
+ dataConversion.Main
+arrays/Exercise3.java
+ arrays.Exercise3
+inheritance/Teacher.java
+ inheritance.Teacher
+inheritanceAnimal/inheritance/Dog.java
+ inheritanceAnimal.inheritance.Dog
+vehicleInheritance/Truck.java
+ vehicleInheritance.Truck
+collections/Theatre.java
+ collections.Theatre
+ collections.Theatre$1
+ collections.Theatre$Seat
+Set/Main.java
+ Set.Main
+polymorphism/polyExercise1.java
+ polymorphism.Forgetable
+ polymorphism.IndependenceDay
+ polymorphism.Jaws
+ polymorphism.MazeRunner
+ polymorphism.Movie
+ polymorphism.StarWars
+ polymorphism.polyExercise1
+abstraction/exercise2/Main.java
+ abstraction.exercise2.Main
+Generics/SoccerPlayer.java
+ Generics.SoccerPlayer
+arrayList/exercise2/Contacts.java
+ arrayList.exercise2.Contacts
+streams/exercise1/Main.java
+ streams.exercise1.Main
